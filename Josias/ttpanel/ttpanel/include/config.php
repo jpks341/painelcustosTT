@@ -8,8 +8,8 @@
 
 return [
     'host' => 'localhost',
-    'db_name' => 'nome-do-seu-database', // Имя базы данных
-    'user' => 'nome-de-usuario-do-database', // Юзер базы данных
-    'password' => 'senha-do-database', // Пароль базы данных
+    'db_name' => 'painel_custos', // Имя базы данных
+    'user' => 'josias', // Юзер базы данных
+    'password' => 'josias456', // Пароль базы данных
     'charset' => 'utf8'
 ];
