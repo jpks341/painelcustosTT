@@ -1,0 +1,8 @@
+PIXEL DE LEAD (CHECKOUT)
+
+<img src="https://dominio-da-vps.com/pixel.php?subid={SUBID}&status=lead" height="1" width="1" />
+
+
+POSTBACK DE SALE (VENDA + UPSELL)
+
+https://seu-dominio-keitaro/postback-id/postback?subid={SUBID}&tid={ORDERID}&payout={COMMISSION_AMOUNT}&currency=usd
