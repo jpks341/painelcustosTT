@@ -1,8 +1,8 @@
 <?php
 
 function sendCostKeitaro($cost, $id_camp_keitaro, $date) {
-    $apikey = 'sua-api-key-do-keitaro'; // Your API key for Keitaro
-    $domain = 'https://seutracker.com'; // Keitaro domain without trailing slash
+    $apikey = '3863de0a5ff302c615248697d8cbc175	'; // Your API key for Keitaro
+    $domain = 'http://157.245.244.227'; // Keitaro domain without trailing slash
     $timezone = 'America/Sao_Paulo'; // Your timezone
     $currency = 'USD';
 
